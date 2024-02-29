@@ -1,0 +1,21 @@
+ul{
+    list-style: none;
+    display: flex;
+    gap: 10px;
+}
+img{
+    width: 300px;    
+    border-radius: 30px;
+}
+.nome{
+    text-align: center;
+    color: chartreuse;
+    background-color: black;
+}
+p{
+    text-align: center;
+    color: orange;
+}
+header{
+    text-align: center;
+}
